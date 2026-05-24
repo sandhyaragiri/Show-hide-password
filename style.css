@@ -1,0 +1,12 @@
+body {
+    padding: 30px;
+}
+
+input {
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+}
